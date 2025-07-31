@@ -1,2 +1,4 @@
-TwoSum 
-Working through a set of a few solutions for the Leetcode TwoSum problem, and understanding the nested array and hashmap/C# Dictionary solutions.
+# TwoSum 
+This repo contains a set of a solutions in **C#** for the Leetcode **TwoSum** problem written to understanding an under-the-hood look at the problem:
+1. the nested array 
+2. and hashmap/C# Dictionary solutions.
