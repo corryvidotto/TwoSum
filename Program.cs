@@ -7,7 +7,7 @@ namespace TwoSum
     {
         static void Main(string[] args)
         {
-            //HashMapTwoSum hMTS = new HashMapTwoSum();
+            HashMapTwoSum hMTS = new HashMapTwoSum();
             //ClassicTwoSum tS = new ClassicTwoSum();
 
             int[] numbers = { 2, 7, 11, 15 };
@@ -15,7 +15,7 @@ namespace TwoSum
             //July25Solution jsol = new July25Solution(numbers, target);
             //var resultList = July25Solution(numbers, target);
 
-            BruteForceTwoSumSolved js2 = new BruteForceTwoSumSolved();
+            //BruteForceTwoSumSolved js2 = new BruteForceTwoSumSolved();
 
 
         }
