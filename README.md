@@ -5,5 +5,5 @@ Uncomment the various calls in Program.cs to see the code run.
 
 1. HashMapTwoSum
 2. ClassicTwoSum
-3. July25Solution;
+3. July25Solution
 4. BruteForceTwoSumSolved
